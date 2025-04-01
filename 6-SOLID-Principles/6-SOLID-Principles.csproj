@@ -8,4 +8,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="3-Liskov-Substitution-Principle\" />
+      <Folder Include="4-Interface-Segregation\" />
+      <Folder Include="5-Dependency-Inversion-Principle\" />
+    </ItemGroup>
+
 </Project>
